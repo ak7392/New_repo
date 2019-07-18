@@ -1,2 +1,2 @@
-a
-2
+Let's make rebase change 1. 
+Let's make rebase change 2.
