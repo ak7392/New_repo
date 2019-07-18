@@ -1,2 +1,3 @@
 Some more changes incuduced in feature1 branch.
 These changes must be new.
+Changes from feature1.
