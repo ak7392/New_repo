@@ -1,2 +1,3 @@
 Making some changes now in master
-These changes should create conflict.
+These changes should create conflict
+Let's do more changes.
