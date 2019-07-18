@@ -1,2 +1,0 @@
-Making some changes now in master
-These changes should create conflict.
